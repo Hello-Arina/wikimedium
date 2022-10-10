@@ -1,0 +1,160 @@
+section .first {
+  width: 49.5%;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  margin-bottom: 40px;
+}
+section h2, section p {
+  margin: 0 auto 0 17%;
+  width: 590px;
+}
+section .first h2 {
+  font-size: 40px;
+  margin-top: 130px;
+  margin-bottom: 23px;
+  line-height: 45px;
+  letter-spacing: 1.1px;
+}
+section .first p {
+  font-size: 26px;
+  line-height: 39px;
+  letter-spacing: .14px;
+}
+section .first-pic {
+  width: 50%;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  margin-bottom: 49px;
+}
+section .first-pic img {
+  padding: 84px 0 0 47px;
+  width: 1151px;
+}
+section .second-pic {
+  width: 50%;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  margin-bottom: 40px;
+}
+section .second-pic img {
+  padding: 44px 0 0 81px;
+  width: 728px;
+}
+section .second {
+  width: 49.5%;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  margin-bottom: 40px;
+}
+section .second h2 {
+  font-size: 40px;
+  margin-top: 98px;
+  margin-bottom: 25px;
+  line-height: 46px;
+  margin-left: 41px;
+  letter-spacing: .94px;
+}
+section .second p {
+  margin-left: 41px;
+  font-size: 26px;
+  line-height: 38px;
+  letter-spacing: .14px;
+}
+section .third {
+  width: 49.5%;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  margin-bottom: 40px;
+}
+section .third h2 {
+  font-size: 40px;
+  margin-top: 149px;
+  margin-bottom: 24px;
+  line-height: 46px;
+  margin-left: 124px;
+  letter-spacing: .8px;
+}
+section .third p {
+  margin-left: 124px;
+  font-size: 26px;
+  line-height: 38px;
+  letter-spacing: .14px;
+}
+section .third-pic {
+  width: 50%;
+  height: 822px;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  margin-bottom: -9px;
+}
+section .third-pic img {
+  padding: 162px 0 0 46px;
+  width: 1337px;
+}
+section .line {
+  padding-top: 1px;
+  color: rgba(255, 0, 0, 0.2);
+}
+section .text {
+  width: 902px;
+  height: 400px;
+  overflow: hidden;
+  vertical-align: top;
+  margin: auto;
+  margin-bottom: 30px;
+}
+section .text h2 {
+  font-size: 40px;
+  text-align: center;
+  line-height: 46px;
+  letter-spacing: 1px;
+  margin-top: 117px;
+  margin-bottom: 24px;
+}
+section .text p {
+  width: 785px;
+  font-size: 26px;
+  text-align: center;
+  line-height: 38px;
+  letter-spacing: .1px;
+  margin-left: 68px;
+}
+section .button-w {
+  width: 265px;
+  height: 51px;
+  border-radius: 4px;
+  background-color: white;
+  margin-left: 431px;
+  border: 1px solid #000;
+  opacity: 30%;
+}
+section .button-w p {
+  font-size: 18px;
+  line-height: 38px;
+  letter-spacing: .1px;
+  margin-left: 34px;
+  padding-top: 6px;
+}
+section .button-b {
+  width: 301px;
+  height: 51px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+  margin-left: 716px;
+  margin-top: -51px;
+
+}
+section .button-b p {
+  font-size: 18px;
+  line-height: 38px;
+  letter-spacing: .68px;
+  margin-left: 58px;
+  padding-top: 5px;
+}
